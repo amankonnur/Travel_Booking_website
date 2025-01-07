@@ -1,4 +1,4 @@
-# **Travel Booking Website**
+# **Travel Booking Website using Django & PostgreSQL**
 
 A user-friendly web application developed using **Django**, **Python**, **HTML**, **CSS**, and **PostgreSQL**, allowing users to search for and book hotels in their desired locations.
 
